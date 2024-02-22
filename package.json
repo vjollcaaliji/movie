@@ -1,0 +1,1 @@
+{"name":"movie","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"metro":"^0.80.6","react-native":"0.73.4"}}
